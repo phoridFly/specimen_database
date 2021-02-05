@@ -12,3 +12,4 @@ Authors (People/Species Relationship Table)
 
 Relationships shown below:  
 
+![alt text](http://url/to/img.png)
