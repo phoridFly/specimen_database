@@ -9,6 +9,7 @@ Collecting Events
 Collectors (People/Collecting Relationship Table)  
 Localities  
 Authors (People/Species Relationship Table)  
+Alcohol Lots  
 
 Relationships shown below:  
 
