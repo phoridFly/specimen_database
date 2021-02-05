@@ -12,4 +12,4 @@ Authors (People/Species Relationship Table)
 
 Relationships shown below:  
 
-![alt text](http://url/to/img.png)
+![DB Schema](https://github.com/phoridFly/specimen_database/blob/master/db_schema.png)
